@@ -28,6 +28,18 @@ const initialUserDetailsList = [
     name: 'Devon Lane',
     role: 'Software Developer',
   },
+  {
+    uniqueNo: 5,
+    imageUrl: '',
+    name: 'Rajashree Roy',
+    role: 'Software Developer',
+  },
+  {
+    uniqueNo: 6,
+    imageUrl: '',
+    name: 'Sourav Paul',
+    role: 'Software Developer',
+  },
 ]
 
 class App extends Component {
